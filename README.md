@@ -4,12 +4,14 @@ _A static site generator written in ANSI C._
 
 Created by Alexander Nicholi.
 
-Copyright (C) 2022 Aquefir. All rights reserved  
+Copyright &copy; 2022 Aquefir. All rights reserved  
 Released under Artisan Software Licence v1.1
 
+Usage:
+
 ```
-	simbel <-h|--help|-?>
-	simbel [flags] <config.ini> [input dir] [output dir]
+simbel <-h|--help|-?>
+simbel [flags] <config.ini> [input dir] [output dir]
 ```
 
 The first usage shows this help output, and exits.

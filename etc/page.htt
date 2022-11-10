@@ -1,0 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+@HEAD@
+<body>
+@HEADER@
+<h1>Good morning, Vietnam!</h1>
+<p>This is a test. This is <em>only</em> a test.</p>
+@FOOTER@
+</body>
+</html>
